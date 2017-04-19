@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="spring-framework-3.0.2">
+    <ANNOTATIONS>
+      <root url="file://E:/资料/数梦自学资料系列/Springmvc+Mybatis由浅入深全套视频教程/springmvc/day01/res/jar包/spring-framework-3.0.2.RELEASE-dependencies" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://E:/资料/数梦自学资料系列/Springmvc+Mybatis由浅入深全套视频教程/springmvc/day01/res/jar包/spring-framework-3.0.2.RELEASE-dependencies" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://E:/资料/数梦自学资料系列/Springmvc+Mybatis由浅入深全套视频教程/springmvc/day01/res/jar包/spring-framework-3.0.2.RELEASE-dependencies" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://E:/资料/数梦自学资料系列/Springmvc+Mybatis由浅入深全套视频教程/springmvc/day01/res/jar包/spring-framework-3.0.2.RELEASE-dependencies" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://E:/资料/数梦自学资料系列/Springmvc+Mybatis由浅入深全套视频教程/springmvc/day01/res/jar包/spring-framework-3.0.2.RELEASE-dependencies" />
+    </SOURCES>
+    <jarDirectory url="file://E:/资料/数梦自学资料系列/Springmvc+Mybatis由浅入深全套视频教程/springmvc/day01/res/jar包/spring-framework-3.0.2.RELEASE-dependencies" recursive="false" />
+    <jarDirectory url="file://E:/资料/数梦自学资料系列/Springmvc+Mybatis由浅入深全套视频教程/springmvc/day01/res/jar包/spring-framework-3.0.2.RELEASE-dependencies" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+     <servicecode>test6</servicecode>
+     <servicepwd>test6</servicepwd>
+     <url>http://puser.zjzwfw.gov.cn/sso/</url>
+</config>
